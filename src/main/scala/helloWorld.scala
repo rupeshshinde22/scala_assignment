@@ -10,6 +10,7 @@ object helloWorld extends App
   println("3".toInt)
 //  println("foo".toInt)
   println("abcdef".take(3))
+  val str = ("Scala")
 
 
 //
